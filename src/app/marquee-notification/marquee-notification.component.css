@@ -1,0 +1,24 @@
+.marquee_element_pipe{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: forestgreen;
+}
+.marquee {
+    width:145vh;
+    line-height: 8.25%;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding-top: 1.5%;
+    font-weight: 380;
+    margin-right: 2%;
+}
+.marquee p {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 2000s linear infinite;
+}
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}

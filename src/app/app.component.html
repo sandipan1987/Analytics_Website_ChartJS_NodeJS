@@ -1,0 +1,87 @@
+<div class="wrapper container-fluid">
+	<div class="row">
+		<div class="col-12 header">
+			<h2>** STORE APP ANALYTICS **</h2>
+		</div>
+	</div>
+</div>
+
+<div class="outer_div wrapper container-fluid"> 
+	<div class="row">
+		<div class="col-lg-4 col-md-6 wrapper container-fluid chart">
+			<div class="row icons">
+				<div class="col-4 icon_parent" >
+					<div class="icon">
+						<app-generic-icon-count 
+							[count] = "store_count"
+							[image_path] = "store_notifiation_image_path">
+						</app-generic-icon-count>
+					</div>
+				</div>
+				<div class="col-4 icon_parent" >
+					<div class="icon">
+						<app-generic-icon-count 
+							[count]="tc55_count"
+							[image_path] = "tc55_notifiation_image_path">
+						</app-generic-icon-count>
+					</div>
+				</div>
+				<div class="col-4 icon_parent" >
+					<div class="icon">
+						<app-generic-icon-count 
+							[count]="users_count"
+							[image_path] = "users_notifiation_image_path">
+						</app-generic-icon-count>
+					</div>
+				</div>    
+			</div>
+		</div>
+
+		<div class="col-lg-8 col-md-6 wrapper container-fluid chart">
+			<div class="row storeInfo ">
+				<app-marquee-notification></app-marquee-notification>
+			</div>	
+		</div>
+	</div>
+
+	<div class="wrapper container-fluid chart">
+		<div class="row charts">
+			<div class="col-lg-4 col-md-6  wrapper container-fluid">
+				<div class="row ">
+					<div class="col-12 largeChart2">
+						<app-tc55-browser-user-count-chart> </app-tc55-browser-user-count-chart>
+					</div>		
+				</div>
+				<div class="row">
+					<div class="col-12 largeChart1">
+						<app-tc55-in-multistore-count-chart></app-tc55-in-multistore-count-chart>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6  wrapper container-fluid">
+				<div class="row ">
+					<div class="col-12 largeChart1">
+						<app-device-count-store-count-chart></app-device-count-store-count-chart>
+					</div>
+				</div>
+				<div class="row ">
+					<div class="col-12 largeChart2">
+						<app-version-to-login-type-count-chart></app-version-to-login-type-count-chart>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6  wrapper container-fluid">
+				<div class="row ">
+					<div class="col-12 largeChart2">
+						<app-version-to-store-count-chart></app-version-to-store-count-chart>
+					</div>
+				</div>
+				<div class="row ">
+					<div class="col-12 largeChart1">
+						<app-version-to-tc55-count-chart></app-version-to-tc55-count-chart>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

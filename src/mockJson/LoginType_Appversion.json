@@ -1,0 +1,42 @@
+[
+    {
+      "APP_VERSION": "1.1.63.7804",
+      "SOURCE_TYPE": "DC",
+      "DEVICE": 100
+    },
+    {
+      "APP_VERSION": "1.1.63.7804",
+      "SOURCE_TYPE": "STORE",
+      "DEVICE": 200
+    },
+    {
+      "APP_VERSION": "1.1.62.7803",
+      "SOURCE_TYPE": "DC",
+      "DEVICE": 230
+    },
+    {
+      "APP_VERSION": "1.1.62.7803",
+      "SOURCE_TYPE": "STORE",
+      "DEVICE": 2385
+    },
+    {
+      "APP_VERSION": "1.1.61.7802",
+      "SOURCE_TYPE": "DC",
+      "DEVICE": 800
+    },
+    {
+      "APP_VERSION": "1.1.61.7802",
+      "SOURCE_TYPE": "STORE",
+      "DEVICE": 100
+    },
+    {
+      "APP_VERSION": "1.1.60.7630",
+      "SOURCE_TYPE": "DC",
+      "DEVICE": 200
+    },
+    {
+      "APP_VERSION": "1.1.60.7630",
+      "SOURCE_TYPE": "STORE",
+      "DEVICE": 300
+    }
+   ]

@@ -1,0 +1,93 @@
+.header{
+	background-image: linear-gradient(#027F84, #85B90D, rgb(200, 231, 128));		
+	
+}
+h2{
+	font-size: 30px;
+	font-style: italic;
+	font-weight: 700;
+	color: tomato;
+	text-align: center;
+	text-shadow: 0 1px 1px #bbb,
+	0 2px 0 #999, 
+	0 3px 0 #888, 
+	0 4px 0 #777, 
+	0 5px 0 #666, 
+	0 6px 0 #555, 
+	0 7px 0 #444, 
+	0 8px 0 #333, 
+	0 9px 7px #302314;
+	line-height: 1.5;
+}
+.outer_div{
+	
+	margin-right: 0px;
+}
+.chart{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+/*.charts{
+	margin-left:-15px;
+	/*margin-right:8px;
+}    */
+.storeInfo{
+	margin-right:0px;
+	background-image: linear-gradient(white,rgb(179, 247, 247),rgb(139, 243, 247));
+	height:100%;
+	margin-left: -30px;
+	/*opacity: 0.7;*/
+}
+
+  
+.icons{
+	background-image: linear-gradient(white,rgb(179, 247, 247),rgb(139, 243, 247));
+	width: 100%;
+	height: 100%;
+	margin-left: 0px;
+} 
+.icon_parent{
+	/* for the img inside your div */
+	display: block;
+	margin: 0 auto;
+}	
+.icon{
+	background : white;
+	border:1px solid green; 
+	-moz-border-radius:50%;
+    -webkit-border-radius:50%;
+	border-radius: 50%;
+	height:50px;
+	width:50px;
+	position: relative;
+}
+
+.largeChart2{
+	background-image: linear-gradient(rgb(175, 245, 96),rgb(156, 238, 213),white);
+	display: block;
+	margin-left: 0px;
+	margin-top: 2px;
+	width:100%;
+	height: 45%;
+	opacity: 0.7;
+}
+.largeChart1{
+	background-image: linear-gradient(rgb(236, 187, 130),rgb(245, 244, 180),white);
+	display: block;
+	margin-left: 0px;
+	margin-top: 2px;
+	width:100%;
+	height: 45%;
+	opacity: 0.7;
+}
+/*img.chart{
+	max-width: 100%;
+	max-height: 100%;
+}*/
+
+.item {
+    position:relative;
+    padding-top:10px;
+    display:inline-block;
+}
+

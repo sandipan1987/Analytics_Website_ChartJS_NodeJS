@@ -1,0 +1,24 @@
+.displayed_chart {
+	display: block;
+    margin: 0 auto;
+    height: 33vh;
+    width: 90%;
+}
+
+.temp{
+    width: 380px;
+    height: 188px;
+}
+
+
+.card-header {
+    font-weight: 500 !important;
+    font-style: italic !important;
+    text-decoration: underline !important;
+    background-color: transparent !important;
+    border-bottom: none !important;
+}
+
+.card-body {
+	padding: 5px;
+}

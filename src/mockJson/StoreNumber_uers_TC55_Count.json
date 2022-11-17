@@ -1,0 +1,3282 @@
+[
+  {
+    "STORE_DC_ID": 4617,
+    "DEVICES": 15,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4581,
+    "DEVICES": 15,
+    "USERS": 8
+  },
+  {
+    "STORE_DC_ID": 4954,
+    "DEVICES": 13,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4602,
+    "DEVICES": 12,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4383,
+    "DEVICES": 12,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4654,
+    "DEVICES": 11,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5869,
+    "DEVICES": 11,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4681,
+    "DEVICES": 11,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4615,
+    "DEVICES": 11,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4957,
+    "DEVICES": 10,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4845,
+    "DEVICES": 10,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4356,
+    "DEVICES": 10,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4433,
+    "DEVICES": 10,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4678,
+    "DEVICES": 10,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4564,
+    "DEVICES": 10,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4218,
+    "DEVICES": 10,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 5011,
+    "DEVICES": 10,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4233,
+    "DEVICES": 10,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4203,
+    "DEVICES": 10,
+    "USERS": 7
+  },
+  {
+    "STORE_DC_ID": 5900,
+    "DEVICES": 9,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4187,
+    "DEVICES": 9,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4140,
+    "DEVICES": 9,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4195,
+    "DEVICES": 9,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4946,
+    "DEVICES": 9,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4630,
+    "DEVICES": 9,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4567,
+    "DEVICES": 9,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4326,
+    "DEVICES": 9,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4610,
+    "DEVICES": 9,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4863,
+    "DEVICES": 9,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4251,
+    "DEVICES": 9,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4963,
+    "DEVICES": 9,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4672,
+    "DEVICES": 9,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4260,
+    "DEVICES": 9,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 5892,
+    "DEVICES": 9,
+    "USERS": 8
+  },
+  {
+    "STORE_DC_ID": 4923,
+    "DEVICES": 8,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5871,
+    "DEVICES": 8,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4660,
+    "DEVICES": 8,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4653,
+    "DEVICES": 8,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4194,
+    "DEVICES": 8,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4786,
+    "DEVICES": 8,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4689,
+    "DEVICES": 8,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4677,
+    "DEVICES": 8,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4639,
+    "DEVICES": 8,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4640,
+    "DEVICES": 8,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4598,
+    "DEVICES": 8,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4173,
+    "DEVICES": 8,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4971,
+    "DEVICES": 8,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4943,
+    "DEVICES": 8,
+    "USERS": 6
+  },
+  {
+    "STORE_DC_ID": 4325,
+    "DEVICES": 8,
+    "USERS": 6
+  },
+  {
+    "STORE_DC_ID": 4357,
+    "DEVICES": 8,
+    "USERS": 6
+  },
+  {
+    "STORE_DC_ID": 4936,
+    "DEVICES": 7,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4575,
+    "DEVICES": 7,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5878,
+    "DEVICES": 7,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4955,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4281,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4156,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4967,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4679,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4766,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4501,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4646,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4684,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4582,
+    "DEVICES": 7,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4614,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4600,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4419,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4286,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4168,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 5868,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 5830,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4996,
+    "DEVICES": 7,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4190,
+    "DEVICES": 7,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4378,
+    "DEVICES": 7,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4440,
+    "DEVICES": 7,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4271,
+    "DEVICES": 7,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 5762,
+    "DEVICES": 7,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4694,
+    "DEVICES": 7,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4657,
+    "DEVICES": 7,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4647,
+    "DEVICES": 6,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5840,
+    "DEVICES": 6,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4924,
+    "DEVICES": 6,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4620,
+    "DEVICES": 6,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4585,
+    "DEVICES": 6,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4360,
+    "DEVICES": 6,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4229,
+    "DEVICES": 6,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4769,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4174,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4189,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4294,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4988,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4850,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4144,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5881,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4631,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5004,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4606,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4586,
+    "DEVICES": 6,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4837,
+    "DEVICES": 6,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4566,
+    "DEVICES": 6,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4685,
+    "DEVICES": 6,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4950,
+    "DEVICES": 6,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4840,
+    "DEVICES": 6,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4430,
+    "DEVICES": 6,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4994,
+    "DEVICES": 6,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4778,
+    "DEVICES": 6,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4669,
+    "DEVICES": 6,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 5028,
+    "DEVICES": 6,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4391,
+    "DEVICES": 6,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4183,
+    "DEVICES": 6,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4616,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5884,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4980,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4164,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4289,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4973,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4232,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4932,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5867,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4177,
+    "DEVICES": 5,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4288,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4157,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4948,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4798,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4792,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4697,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4656,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4622,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4487,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4414,
+    "DEVICES": 5,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4635,
+    "DEVICES": 5,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4252,
+    "DEVICES": 5,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4928,
+    "DEVICES": 5,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4906,
+    "DEVICES": 5,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4692,
+    "DEVICES": 5,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4637,
+    "DEVICES": 5,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4368,
+    "DEVICES": 5,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4158,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4181,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4993,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 5729,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4152,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4922,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4394,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4390,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4333,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4607,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4960,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4676,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4791,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4975,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4573,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4587,
+    "DEVICES": 5,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4675,
+    "DEVICES": 5,
+    "USERS": 5
+  },
+  {
+    "STORE_DC_ID": 4674,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4686,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4688,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4725,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4736,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4777,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4823,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4826,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4903,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5757,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5849,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5899,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4126,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4169,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4366,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4423,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4456,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4469,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4479,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4507,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4508,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4512,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4580,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4628,
+    "DEVICES": 4,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4667,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4726,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4735,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4757,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4772,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4844,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4885,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4961,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4965,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4987,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4989,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5002,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5818,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5864,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5870,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5885,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5894,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 1234,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4148,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4163,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4211,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4243,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4338,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4458,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4533,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4565,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4571,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4596,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4608,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4638,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4644,
+    "DEVICES": 4,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4703,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4710,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4732,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4783,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4799,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4851,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4931,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4966,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4981,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4997,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 5865,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4172,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4178,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4184,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4224,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4238,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4264,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4307,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4320,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4372,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4374,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4399,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4422,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4475,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4491,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4500,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4505,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4527,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4530,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4531,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4540,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4549,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4579,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4618,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4626,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4664,
+    "DEVICES": 4,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4671,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4808,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4816,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 5014,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 5876,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4165,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4201,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4313,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4324,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4329,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4344,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4346,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4351,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4519,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4574,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4577,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4648,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 4666,
+    "DEVICES": 4,
+    "USERS": 4
+  },
+  {
+    "STORE_DC_ID": 5013,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5810,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 7420,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4127,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4137,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4146,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4147,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4167,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4216,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4249,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4290,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4337,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4361,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4364,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4386,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4408,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4409,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4446,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4447,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4457,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4461,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4462,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4463,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4471,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4478,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4484,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4488,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4490,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4492,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4494,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4522,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4537,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4544,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4551,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4556,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4562,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4563,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4583,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4601,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4603,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4633,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4642,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4652,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4655,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4700,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4705,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4706,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4715,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4720,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4723,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4734,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4746,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4754,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4759,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4761,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4764,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4787,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4794,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4873,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4894,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4901,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4905,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4911,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4930,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4938,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4977,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4986,
+    "DEVICES": 3,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4135,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4141,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4143,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4145,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4151,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4161,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4170,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4175,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4179,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4185,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4192,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4196,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4200,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4209,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4210,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4217,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4220,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4248,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4259,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4274,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4276,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4293,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4322,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4327,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4342,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4348,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4405,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4410,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4459,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4466,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4470,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4473,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4476,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4485,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4497,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4504,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4506,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4538,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4547,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4550,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4570,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4597,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4599,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4609,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4632,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4634,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4636,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4643,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4645,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4659,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4661,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4662,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4670,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4699,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4718,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4737,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4739,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4750,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4751,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4752,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4765,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4771,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4775,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4776,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4780,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4781,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4804,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4825,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4841,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4876,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4878,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4897,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4933,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4939,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4940,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4944,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4969,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4990,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5123,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5130,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5761,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5880,
+    "DEVICES": 3,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4136,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 5828,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4153,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4188,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4225,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4227,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4263,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4273,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4278,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4280,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4283,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4292,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4308,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4314,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4318,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4332,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4375,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4376,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4379,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4393,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4421,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4424,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4450,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4452,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4486,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4499,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4510,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4513,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4518,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4523,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4559,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4561,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4584,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4621,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4625,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4649,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4651,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4711,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4774,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4789,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4796,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4811,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4813,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4839,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4877,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4920,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4925,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4935,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4941,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4952,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4958,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4991,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4138,
+    "DEVICES": 3,
+    "USERS": 3
+  },
+  {
+    "STORE_DC_ID": 4483,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4493,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4511,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4515,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4520,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4535,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4964,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4976,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5001,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5784,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5794,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5809,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5883,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5895,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 7495,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4539,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4557,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4605,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4619,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4623,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4641,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4658,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4668,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4680,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4690,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4691,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4696,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4701,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4712,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4716,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4717,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4730,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4733,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4738,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4741,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4742,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4760,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4788,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4833,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4843,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4865,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4880,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4881,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4915,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4919,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4926,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4162,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4182,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4186,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4198,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4206,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4230,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4244,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4250,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4275,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4277,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4287,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4311,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4316,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4328,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4343,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4396,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4401,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4415,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4436,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4443,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4454,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4464,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4474,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4477,
+    "DEVICES": 2,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4949,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4953,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4956,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4979,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4995,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5134,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5719,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5759,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5807,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5819,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 5889,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4536,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4543,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4548,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4554,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4572,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4611,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4613,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4627,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4693,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4704,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4708,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4727,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4728,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4740,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4743,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4744,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4745,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4747,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4756,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4758,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4803,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4857,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4879,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4899,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4907,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4916,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4917,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4918,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4927,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4929,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4942,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4945,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4947,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4128,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4131,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4133,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4139,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4142,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4154,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4155,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4159,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4171,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4176,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4202,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4204,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4214,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4245,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4253,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4261,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4266,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4279,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4285,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4339,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4345,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4352,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4403,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4442,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4448,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4449,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4453,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4460,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4472,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4489,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4509,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4514,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4517,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 4524,
+    "DEVICES": 2,
+    "USERS": 2
+  },
+  {
+    "STORE_DC_ID": 727,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 7488,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4149,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4160,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4231,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4242,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4270,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4350,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4363,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4370,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4429,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4444,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4467,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4542,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4555,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4576,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4578,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4589,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4591,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4592,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4594,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4604,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4663,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4687,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4695,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4702,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4709,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4731,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4749,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4753,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4797,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4801,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4806,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4831,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4849,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4882,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4892,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4895,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4900,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 4934,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5758,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 5866,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 7475,
+    "DEVICES": 1,
+    "USERS": 1
+  },
+  {
+    "STORE_DC_ID": 1423,
+    "DEVICES": 1,
+    "USERS": 1
+  }
+ ]
